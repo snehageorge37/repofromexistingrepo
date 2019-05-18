@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/pc_circleci.iml" filepath="$PROJECT_DIR$/pc_circleci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pc_source-master.iml" filepath="$PROJECT_DIR$/pc_source-master.iml" />
     </modules>
   </component>
 </project>
